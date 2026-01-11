@@ -1,6 +1,6 @@
 # Voice Agent Lab
 
-> A local-first RAG-powered voice agent built with small language models (sLMs), Chatterbox TTS, and a Streamlit interface.
+> A local-first RAG-powered voice agent built with small language models (SLMs), Chatterbox TTS, and a Streamlit interface.
 
 ---
 

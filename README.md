@@ -8,7 +8,7 @@
 
 **Voice Agent Lab** is a focused implementation of a **retrieval-augmented voice assistant** that combines:
 
-- **sLM-based reasoning**
+- **SLM-based reasoning**
 - **RAG for grounded responses**
 - **Chatterbox TTS for natural speech output**
 - **Streamlit** as the interactive UI layer
